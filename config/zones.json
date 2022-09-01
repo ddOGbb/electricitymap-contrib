@@ -1518,13 +1518,13 @@
       "gas": 1935,
       "geothermal": 0,
       "hydro": 3178,
-      "nuclear": 4372,
+      "nuclear": 4394,
       "oil": 1051,
       "solar": 404,
       "unknown": 784,
       "wind": 3257
     },
-    "contributors": ["corradio", "nessie2013"],
+    "contributors": ["corradio", "nessie2013","ddOGbb"],
     "parsers": {
       "consumption": "ENTSOE.fetch_consumption",
       "consumptionForecast": "ENTSOE.fetch_consumption_forecast",
@@ -1601,19 +1601,19 @@
     ],
     "capacity": {
       "battery storage": 7,
-      "biomass": 1579,
+      "biomass": 2234,
       "coal": 1818,
-      "gas": 12218,
+      "gas": 12752,
       "geothermal": 16,
       "hydro": 18743.6955,
       "hydro storage": 5029.87,
       "nuclear": 61370,
-      "oil": 2746,
-      "solar": 12447,
+      "oil": 2890,
+      "solar": 13612,
       "unknown": 1366,
-      "wind": 18549
+      "wind": 19099
     },
-    "contributors": ["corradio", "lorrieq", "nessie2013"],
+    "contributors": ["corradio", "lorrieq", "nessie2013", "ddOGbb"],
     "parsers": {
       "consumption": "ENTSOE.fetch_consumption",
       "consumptionForecast": "ENTSOE.fetch_consumption_forecast",
@@ -1662,13 +1662,13 @@
       "geothermal": 0,
       "hydro": 1919,
       "hydro storage": 4309,
-      "nuclear": 6848,
+      "nuclear": 5883,
       "oil": 0,
       "solar": 13378,
       "unknown": 4708,
       "wind": 25097
     },
-    "contributors": ["corradio", "lorrieq", "nessie2013", "AlexandreCouderc"],
+    "contributors": ["corradio", "lorrieq", "nessie2013", "AlexandreCouderc", "ddOGbb"],
     "parsers": {
       "consumption": "ENTSOE.fetch_consumption",
       "consumptionForecast": "ENTSOE.fetch_consumption_forecast",
